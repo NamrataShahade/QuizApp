@@ -1,0 +1,38 @@
+.App {
+    text-align: center;
+  }
+.hrPositions {
+    position: relative;
+    top: -38px;
+}
+.rowBackGroundColor {
+    background-color: #ececec;
+}
+.colBackGrndColor {
+    background-color: aqua;
+}
+.colSelectQuestionType {
+    margin-left: 27px;
+}
+.colSelectNumQues {
+    margin-left: 28px;
+}
+.addRemBtnPosition {
+    margin-left: -45px;
+}
+.doneBtnWidth {
+    width: 145px;
+}
+
+
+/* #fields {
+    width:350px
+  } 
+  
+  .check{
+    float:left
+  }
+  
+  .add, .remove {
+    float:right
+  } */

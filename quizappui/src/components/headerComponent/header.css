@@ -1,0 +1,103 @@
+  .App {
+    text-align: center;
+  }
+  .selectId {
+    font-size: 14px;
+    font-weight: 700;
+    padding: 5px 40px 5px 10px;
+    border: 2px solid #bfb5b5;
+    background: #F7F7F6 url('./arrow.png') right 10px center no-repeat;
+    background-size: 20px;
+    box-shadow: 0 1px 2px 0 rgba(0,0,0,.25);
+    font-family: Titillium Web,sans-serif;
+    color: #3b4151;
+    -webkit-appearance: none;
+  }
+  
+  .App-header {
+    background-color: white;
+    height: 50px;
+    padding: 10px;
+    color: black;
+  }
+  .App-header-jd {
+    background-color: rgb(236, 236, 236);
+    height: 57px;
+    padding: 10px;
+    color: black;
+  }
+  .App-client-name {
+    font-size: 14px;
+  }
+  .App-logout {
+    font-size: 14px;
+  }
+  .App-rez {
+    font-size: 16px;
+  }
+  .App-user {
+    font-size: 14px;
+    width: 58px;
+  }
+  .App-jdLabel {
+    font-size: 14px;
+    width: 123px;
+  }
+  .App-jdListPosition {
+    width: 58px;
+  }
+  hr.vertical
+  {
+     width: 0px;
+     height: 100%; /* or height in PX */
+  } 
+  .colHeightgrey {
+    height: 27px;
+    /* background-color: dimgrey; */
+  }
+  .colHeightred {
+    height: 27px;
+    /* background-color: aqua; */
+  }
+  .headerOneRowHeight {
+    height: 27px;
+    /* background-color: blueviolet; */
+  }
+  .headerTwoRowHeight {
+    height: 50px;
+    background-color: #cecece;  
+    border-top: 1px solid #c3b9b9;
+    border-bottom: 1px #c3b9b9 solid;
+    /* background-color: blueviolet; */
+  }
+  .colWidth {
+    width: 50px;
+  }
+  .jdDropDownColposition {
+    position: relative;
+    left: -11px;
+    top: -5px;
+  }
+  .jdDropDownHeight {
+    height: 36px;
+    background: white;
+    border: ridge;
+    font-size: 15px;
+  }
+  .jdLabelPosition {
+    position: relative;
+    right: 15px;
+  }
+  .userCompanyPosition {
+    position: relative;
+    left: 49px;
+  }
+  .quizImage {
+    background:no-repeat center center fixed;
+    height: 236px;
+    display: inline-block;
+  }
+  .createQuizBtnSize {
+    width: 33%;
+  }
+  
